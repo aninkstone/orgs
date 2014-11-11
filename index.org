@@ -1,0 +1,6 @@
+#+STARTUP: indent
+#+STARTUP: hidestars
+#+STARTUP: odd
+
+[[file:template.org][template]]
+
